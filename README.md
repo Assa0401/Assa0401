@@ -1,6 +1,4 @@
-## Hi there 👋
-# 👑 Blockchain & Full-Stack Developer 
-
+## Hi there 👋  Blockchain & Full-Stack Developer 
 *Building decentralized futures!!!*
 
 ## 🚀 Professional Profile
