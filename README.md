@@ -1,36 +1,20 @@
 ## Hi there 👋
-# 👑 Blockchain & Full-Stack Developer 
-
+# 🚀 Full-Stack Web & Blockchain Developer 
 *Building decentralized futures!!!*
 
-## 🚀 Professional Profile
+I specialize in delivering high-value, scalable, and future-proof digital solutions that exceed client expectations. With expertise in Web Development, Blockchain, and IT Consulting, I take ownership of projects from concept to deployment—ensuring seamless execution in design, development, QA, and project management.
+My approach is client-centric: I prioritize understanding your vision, analyzing objectives, and crafting tailored solutions that drive success. Beyond code, I’m passionate about creating intuitive designs and optimizing workflows for peak efficiency.
 
-I deliver **exceptional Web3 & Blockchain solutions** that exceed expectations through:
-- 🔍 **Comprehensive Analysis**: Deep understanding of project requirements
-- 🛠️ **End-to-End Development**: From concept to deployment (Design, Development, QA)
-- ⚡ **Cutting-Edge Tech**: Specializing in Blockchain, AI, and Edge Computing
-- ✨ **User-Centric Design**: Creating intuitive and visually stunning interfaces
+🔍 Current Focus & Collaboration
+💻 Freelance Developer (Web3, Full-Stack, Cloud & Edge Computing)
 
-## 🛠 Technical Arsenal
+⚡ Expanding Knowledge in Edge Computing & Decentralized Systems
 
-### Blockchain Expertise
-⛓️ Solidity | Rust | FunC | Web3.js | Ethers.js  
-📌 Ethereum | Bitcoin | Tron | DeFi | Smart Contracts | NFT Marketplaces
+🤝 Let’s Build Something Great! Open for project discussions & partnerships
 
-### Full-Stack Development
-🌐 **Frontend**: React | Angular | Vue | Next.js  
-💻 **Backend**: Node.js | Python | .NET | SpringBoot | Django  
-🛢 **Databases**: PostgreSQL | MongoDB | Oracle  
+📬 Let’s Connect
+Telegram: @bojanterzic529
 
-### Additional Skills
-🔧 **DevOps**: Git | Docker | CI/CD  
-🎨 **Design**: Figma | Canva | UI/UX Principles  
+Ask Me Anything! Always happy to help or brainstorm ideas.
 
-## 🌱 Current Focus
-- 🧠 Expanding **AI/ML** capabilities (Computer Vision, NLP)
-- ⚡ Mastering **Edge Computing** architectures
-- 🔮 Building **DeFi Protocols** and **CEX/DEX Platforms**
-
-
-> "I welcome discussing your projects - let's build something remarkable together!"  
-
+🔥 Quality. Speed. Excellence.
