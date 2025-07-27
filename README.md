@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0DF74E&width=700&lines=Build+next+generation+BLOCKCHAIN+with+AI!;Senior+blockchain+developer;High+quality+at+high+speed%E2%80%94every+time" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0DF74E&center=true&width=700&lines=Build+next+generation+BLOCKCHAIN+with+AI!;Senior+blockchain+developer;High+quality+at+high+speed%E2%80%94every+time" alt="Typing SVG" /></a>
 </p>
-
-## Hi there 👋  Blockchain & Full-Stack Developer 
-*Building decentralized futures!!!*
 
 ## 🚀 Professional Profile
 
