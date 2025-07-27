@@ -39,25 +39,17 @@
 [![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
 ## 🌱 Current Focus
-- 🧠 Expanding **AI/ML** capabilities (Computer Vision, NLP)
-- ⚡ Mastering **Edge Computing** architectures
-- 🔮 Building **DeFi Protocols** and **CEX/DEX Platforms**
-
+- 🔭 I’m currently working on Blockchain, Web3 and AI.
+- 🌱 I’m currently mastering **Edge Computing** architectures
+- 🔮 I’m building **DeFi Protocols** and **CEX/DEX Platforms**
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about everything anytime.
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/andrejrakic/" target="blank">
-  <img align="center" alt="Andrej's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
-   <a href="https://medium.com/@andrej.rakic" target="blank">
-  <img align="center" alt="Andrej's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
- </a> 
- <a href="https://www.instagram.com/andrej_rakic/" target="blank">
-  <img align="center" alt="Andrej's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> 
- </a>
-  <br/>
+ 
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
