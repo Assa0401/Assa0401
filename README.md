@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain,%20Backend%20and%20AI;10+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0DF74E&width=435&lines=Build+next+generation+BLOCKCHAIN+with+AI!;Senior+blockchain+developer;High+quality+at+high+speed%E2%80%94every+time" alt="Typing SVG" /></a>
 </p>
 
 ## Hi there 👋  Blockchain & Full-Stack Developer 
