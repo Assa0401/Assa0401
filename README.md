@@ -2,28 +2,28 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0DF74E&center=true&width=700&lines=Build+next+generation+BLOCKCHAIN+with+AI!;Senior+blockchain+developer;High+quality+at+high+speed%E2%80%94every+time" alt="Typing SVG" /></a>
 </p>
 
-## 🚀 Professional Profile
-
-I deliver **exceptional Web3 & Blockchain solutions** that exceed expectations through:
-- 🔍 **Comprehensive Analysis**: Deep understanding of project requirements
-- 🛠️ **End-to-End Development**: From concept to deployment (Design, Development, QA)
-- ⚡ **Cutting-Edge Tech**: Specializing in Blockchain, AI, and Edge Computing
-- ✨ **User-Centric Design**: Creating intuitive and visually stunning interfaces
-
-## 🛠 Technical Arsenal
-
-### Blockchain Expertise
-⛓️ Solidity | Rust | FunC | Web3.js | Ethers.js  
-📌 Ethereum | Bitcoin | Tron | DeFi | Smart Contracts | NFT Marketplaces
-
-### Full-Stack Development
-🌐 **Frontend**: React | Angular | Vue | Next.js  
-💻 **Backend**: Node.js | Python | .NET | SpringBoot | Django  
-🛢 **Databases**: PostgreSQL | MongoDB | Oracle  
-
-### Additional Skills
-🔧 **DevOps**: Git | Docker | CI/CD  
-🎨 **Design**: Figma | Canva | UI/UX Principles  
+## Tech stack
+[![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
+[![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
+[![React Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/-Angular-d2082d?style=for-the-badge&logo=angular&logoColor=white)]()
+[![Graphql](https://img.shields.io/badge/-Graph_QL-ff1493?style=for-the-badge&logo=graphql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
+[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![IPFS](https://img.shields.io/badge/-IPFS-23bbad?style=for-the-badge&logo=ipfs&logoColor=white)]()
+[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
+[![Baseline](https://img.shields.io/badge/-Baseline-orange?style=for-the-badge&logo=buffer&logoColor=white)]()
+[![Hyperledger](https://img.shields.io/badge/-Hyperledger-7d00ff?style=for-the-badge&logo=linux-foundation&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
+[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
+[![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
 ## 🌱 Current Focus
 - 🧠 Expanding **AI/ML** capabilities (Computer Vision, NLP)
