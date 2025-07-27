@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0DF74E&center=true&width=700&lines=Build+next+generation+BLOCKCHAIN+with+AI!;Senior+blockchain+developer;High+quality+at+high+speed%E2%80%94every+time" alt="Typing SVG" /></a>
 </p>
 
-## Tech stack
+## 🧰 Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -10,7 +10,6 @@
 [![Ethereum](https://img.shields.io/badge/-Ethereum-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
 [![BSC](https://img.shields.io/badge/-Binance%20Smart%20Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)](https://www.bnbchain.org/)
 [![TON](https://img.shields.io/badge/-TON-0098EA?style=for-the-badge&logo=telegram&logoColor=white)](https://ton.org/)
-[![Sui](https://img.shields.io/badge/-Sui-2B72F2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PTAgMCA0MDAgNDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMzMuNzggMjkuODljLTcuNjggMCAxNC44)]()
 [![Hardhat](https://img.shields.io/badge/-Hardhat-fcc72c?style=for-the-badge&logo=hardhat&logoColor=black)](https://hardhat.org/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Remix](https://img.shields.io/badge/-Remix%20IDE-000000?style=for-the-badge&logo=remix&logoColor=white)](https://remix.ethereum.org/)
@@ -42,14 +41,12 @@
 - 🔭 I’m currently working on Blockchain, Web3 and AI.
 - 🌱 I’m currently mastering **Edge Computing** architectures
 - 🔮 I’m building **DeFi Protocols** and **CEX/DEX Platforms**
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about everything anytime.
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- 
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
